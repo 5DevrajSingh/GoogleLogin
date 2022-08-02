@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "528449583994",
+    "project_id": "android-login-af851",
+    "storage_bucket": "android-login-af851.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528449583994:android:955d23dd6a0972531fb4c3",
+        "android_client_info": {
+          "package_name": "com.iottech.googlelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528449583994-ao72ukppkidr9j1cm9hr46m1t9tnbltm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iottech.googlelogin",
+            "certificate_hash": "bfc9c98d3152c28e537daa333493bba712fa7413"
+          }
+        },
+        {
+          "client_id": "528449583994-3740fdpq4bnohth55ohnsluej0jgpsvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwUPxKxXm2MGB3yZQ7Wz31jGhY7wPVWfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528449583994-3740fdpq4bnohth55ohnsluej0jgpsvd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
